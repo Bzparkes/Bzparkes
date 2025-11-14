@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bzparkes
 - 👀 I’m interested in game development
-- 🌱 I’m currently Godot on udemy
+- 🌱 I’m currently learning Godot on udemy
 - 📫 How to reach me bzparkes@yahoo.com.au
 
 <!---
