@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bzparkes
-- 👀 I’m interested in web design and creating apps
-- 🌱 I’m currently learning Javascript on TheOdinProject
+- 👀 I’m interested in game development
+- 🌱 I’m currently Godot on udemy
 - 📫 How to reach me bzparkes@yahoo.com.au
 
 <!---
